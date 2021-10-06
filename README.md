@@ -2,6 +2,7 @@
 <h3 align="center">📱 Aspiring Android Developer.</h3>
 
 - 🔭 I’m currently working on **Red Bus**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BzxcfXDFfCcMDD46E3exiU2AfRXrkk-6/view?usp=sharing"> Resume <a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
