@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developrabhishek.github.io/](https://developrabhishek.github.io/)
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zHHG28QqlS-A-VNsXBtGUryatsEhy4Af/view?usp=sharing" target="blank"> Resume <a/>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LCzLNQRfnb2SvQCOcL4SGQRdM3Mtj4eJ/view?usp=sharing" target="blank"> Resume <a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
