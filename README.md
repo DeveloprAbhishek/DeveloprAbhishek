@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">📱 Aspiring Android Developer.</h3>
 
-- 🔭 I’m currently working on **Ksana**
+- 🔭 I’m currently working on **Android**
 
 - 👨‍💻 All of my projects are available at [https://developrabhishek.github.io/](https://developrabhishek.github.io/)
 
